@@ -1,0 +1,8 @@
+{
+  "name": "TalentEcho",
+  "description": "A professional AI-powered interview coach that provides real-time feedback on voice, face, and content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
